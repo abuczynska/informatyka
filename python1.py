@@ -1,3 +1,17 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Przedmiot:
+Kierunek studiów:
+Semestr:
+Rok akademicki:
+Data (dzień-miesiąc-rok):
+Imię:
+Nazwisko:
+Numer albumu ZUT:
+"""
+
 g = 9.81  # m/s**2, przyspieszenie norm.
 
 v = input ('podaj prędkość w [km/h]: ')
