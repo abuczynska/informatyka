@@ -1,3 +1,13 @@
+"""
+Przedmiot: Informatyka  
+Kierunek studiów: Inżynieria Transportu
+Semestr: zimowy
+Rok akademicki: 2020/2021
+Data (dzień-miesiąc-rok): 08.01.21.
+Imię: Aleksandra    
+Nazwisko: Buczyńska
+Numer albumu ZUT: 50409
+
 print (' input x1, y1, x2, y2, x3, y3, xp, yp: ')
 
 x1, y2, x2, y2, x3, y3 xp, yp = map (float, input ().split))
