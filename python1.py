@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*-
 
 """
-Przedmiot:
-Kierunek studiów:
-Semestr:
-Rok akademicki:
-Data (dzień-miesiąc-rok):
-Imię:
-Nazwisko:
-Numer albumu ZUT:
+Przedmiot: Informatyka  
+Kierunek studiów: Inżynieria Transportu
+Semestr: zimowy
+Rok akademicki: 2020/2021
+Data (dzień-miesiąc-rok): 19.12.20
+Imię: Aleksandra    
+Nazwisko: Buczyńska
+Numer albumu ZUT: 50409
 """
 
 g = 9.81  # m/s**2, przyspieszenie norm.
